@@ -1,7 +1,7 @@
 # TradingView ETHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 18 August 2025 at 21:49:39
-## Price Now: $4,295.43
+## Last updated: 18 August 2025 at 22:13:12
+## Price Now: $4,316.86
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 ETHUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -12,7 +12,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Recommendation
 | Stoch | WR | BBPower | UO | Ichimoku | RSI | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Neutral | Neutral | Sell | Neutral | Neutral | Sell | Sell |
+| Neutral | Neutral | Neutral | Neutral | Neutral | Sell | Sell |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -28,7 +28,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Pivot Points Classic
 | S3 | S2 | S1 | Middle | R1 | R2 | R3 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 3233.18 | 3855.34 | 4165.27 | 4477.50 | 4787.43 | 5099.66 | 5721.82 |
+| $3,233.18 | $3,855.34 | $4,165.27 | $4,477.50 | $4,787.43 | $5,099.66 | $5,721.82 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -36,7 +36,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Pivot Points Fibonacci
 | S3 | S2 | S1 | Middle | R1 | R2 | R3 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 3855.34 | 4093.01 | 4239.83 | 4477.50 | 4715.17 | 4861.99 | 5099.66 |
+| $3,855.34 | $4,093.01 | $4,239.83 | $4,477.50 | $4,715.17 | $4,861.99 | $5,099.66 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -44,7 +44,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Pivot Points Camarilla
 | S3 | S2 | S1 | Middle | R1 | R2 | R3 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 4304.11 | 4361.14 | 4418.17 | 4477.50 | 4532.23 | 4589.26 | 4646.29 |
+| $4,304.11 | $4,361.14 | $4,418.17 | $4,477.50 | $4,532.23 | $4,589.26 | $4,646.29 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -52,7 +52,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Pivot Points Woodie
 | S3 | S2 | S1 | Middle | R1 | R2 | R3 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 3541.91 | 3854.74 | 4164.07 | 4476.90 | 4786.23 | 5099.06 | 5408.39 |
+| $3,541.91 | $3,854.74 | $4,164.07 | $4,476.90 | $4,786.23 | $5,099.06 | $5,408.39 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -60,7 +60,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Pivot Points Demark
 | S1 | Middle | R1 |
 | :---: | :---: | :---: |
-| 4321.39 | 4555.56 | 4943.55 |
+| $4,321.39 | $4,555.56 | $4,943.55 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -68,7 +68,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 40.32 | 29.69 | 25.93 | -50.16 | 27.03 | 22.19 | -128.02 | -44.35 | -49.03 | -47.74 | -72.74 | 4312.46 |
+| $43.80 | $38.81 | $33.29 | -$26.33 | $25.31 | $21.09 | -$114.07 | $1.49 | -$42.73 | -$46.22 | -$50.13 | $4,330.50 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 4307.17 | 4285.98 | 4345.73 | 4356.19 | 4373.76 | 4417.24 | 4408.48 | 4424.63 | 4440.92 | 4474.28 | 4383.43 | 4457.64 |
+| $4,314.98 | $4,290.19 | $4,346.48 | $4,350.95 | $4,372.54 | $4,410.98 | $4,406.41 | $4,423.86 | $4,439.25 | $4,470.66 | $4,383.17 | $4,458.50 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
