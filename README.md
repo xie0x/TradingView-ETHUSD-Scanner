@@ -1,7 +1,7 @@
 # TradingView ETHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 1 September 2025 at 13:56:10 (GMT+7)
-## Price Now: $4,401.22
+## Last updated: 1 September 2025 at 14:32:59 (GMT+7)
+## Price Now: $4,419.73
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 ETHUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -12,7 +12,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Recommendation
 | Stoch | WR | BBPower | UO | Ichimoku | RSI | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Buy | Neutral | Neutral | Neutral | Neutral | Sell | Buy |
+| Neutral | Neutral | Neutral | Neutral | Neutral | Sell | Buy |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -68,7 +68,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $44.64 | $25.46 | $25.19 | -$85.05 | $23.46 | $21.87 | -$47.30 | -$54.29 | -$10.89 | -$2.35 | -$69.00 | $4,390.57 |
+| $48.83 | $33.33 | $28.05 | -$54.17 | $22.74 | $20.02 | -$47.26 | -$50.62 | -$9.90 | -$3.90 | -$54.81 | $4,399.64 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $4,410.77 | $4,409.82 | $4,423.86 | $4,441.68 | $4,425.82 | $4,447.75 | $4,425.86 | $4,419.53 | $4,442.05 | $4,430.89 | $4,464.32 | $4,521.37 |
+| $4,411.89 | $4,404.42 | $4,423.17 | $4,438.63 | $4,425.22 | $4,446.40 | $4,425.49 | $4,420.26 | $4,441.54 | $4,429.63 | $4,463.84 | $4,519.57 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
