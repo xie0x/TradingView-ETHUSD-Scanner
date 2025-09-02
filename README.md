@@ -1,7 +1,7 @@
 # TradingView ETHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 3 September 2025 at 01:46:36 (GMT+7)
-## Price Now: $4,275.71
+## Last updated: 3 September 2025 at 02:23:07 (GMT+7)
+## Price Now: $4,279.74
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 ETHUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $40.94 | $16.92 | $22.27 | -$110.64 | $20.80 | $28.02 | -$36.16 | -$117.31 | -$18.98 | -$12.05 | -$98.12 | $4,287.19 |
+| $41.19 | $20.08 | $21.49 | -$112.19 | $21.45 | $26.85 | -$46.39 | -$120.35 | -$20.12 | -$13.39 | -$92.20 | $4,287.24 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $4,323.87 | $4,333.44 | $4,340.50 | $4,348.20 | $4,351.42 | $4,344.66 | $4,367.48 | $4,377.97 | $4,396.79 | $4,385.72 | $4,432.29 | $4,450.70 |
+| $4,319.08 | $4,323.58 | $4,336.59 | $4,347.55 | $4,348.11 | $4,341.84 | $4,364.85 | $4,374.45 | $4,394.90 | $4,385.57 | $4,430.99 | $4,449.20 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
