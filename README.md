@@ -1,7 +1,7 @@
 # TradingView ETHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 6 September 2025 at 10:02:51 (GMT+7)
-## Price Now: $4,320.72
+## Last updated: 6 September 2025 at 11:37:34 (GMT+7)
+## Price Now: $4,304.97
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 ETHUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $47.02 | $29.97 | $27.94 | -$33.54 | $16.51 | $26.54 | -$18.02 | $29.99 | -$11.13 | -$10.61 | -$66.08 | $4,322.35 |
+| $44.24 | $39.45 | $32.53 | -$47.13 | $16.49 | $28.20 | -$18.71 | -$8.76 | -$11.82 | -$10.85 | -$45.06 | $4,318.45 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $4,322.09 | $4,319.09 | $4,330.75 | $4,344.35 | $4,337.54 | $4,341.24 | $4,347.12 | $4,347.94 | $4,363.19 | $4,360.29 | $4,391.69 | $4,380.05 |
+| $4,318.97 | $4,318.21 | $4,328.29 | $4,339.24 | $4,335.44 | $4,339.96 | $4,345.47 | $4,345.59 | $4,362.04 | $4,360.30 | $4,390.83 | $4,379.28 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
