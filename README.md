@@ -1,7 +1,7 @@
 # TradingView ETHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 20 September 2025 at 04:18:58 (GMT+7)
-## Price Now: $4,464.45
+## Last updated: 20 September 2025 at 05:19:40 (GMT+7)
+## Price Now: $4,474.67
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 ETHUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $35.19 | $15.16 | $11.39 | -$100.82 | $34.35 | $31.71 | -$90.75 | -$51.32 | -$30.57 | -$24.96 | -$77.64 | $4,445.27 |
+| $38.58 | $27.73 | $18.81 | -$62.70 | $34.33 | $30.35 | -$85.95 | -$45.68 | -$28.47 | -$25.54 | -$66.97 | $4,461.70 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $4,477.74 | $4,478.93 | $4,503.96 | $4,510.32 | $4,519.42 | $4,541.75 | $4,532.58 | $4,559.47 | $4,540.38 | $4,531.23 | $4,526.93 | $4,566.26 |
+| $4,478.54 | $4,475.28 | $4,501.96 | $4,504.97 | $4,517.08 | $4,537.12 | $4,530.66 | $4,559.08 | $4,539.25 | $4,531.03 | $4,526.50 | $4,566.54 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
