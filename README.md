@@ -1,7 +1,7 @@
 # TradingView ETHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 22 September 2025 at 16:27:33 (GMT+7)
-## Price Now: $4,187.96
+## Last updated: 22 September 2025 at 17:25:14 (GMT+7)
+## Price Now: $4,173.64
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 ETHUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $13.29 | $26.61 | $23.86 | -$112.12 | $54.85 | $58.81 | -$210.67 | -$260.07 | -$75.21 | -$53.40 | -$74.64 | $4,164.53 |
+| $18.00 | $22.41 | $24.43 | -$111.15 | $57.55 | $58.10 | -$226.47 | -$165.83 | -$80.10 | -$59.18 | -$77.20 | $4,148.91 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $4,261.24 | $4,257.41 | $4,328.40 | $4,368.58 | $4,366.28 | $4,403.56 | $4,408.48 | $4,435.29 | $4,456.68 | $4,486.38 | $4,484.04 | $4,519.20 |
+| $4,240.17 | $4,237.37 | $4,310.68 | $4,351.77 | $4,351.77 | $4,392.38 | $4,397.97 | $4,428.70 | $4,450.41 | $4,482.05 | $4,480.62 | $4,516.47 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
