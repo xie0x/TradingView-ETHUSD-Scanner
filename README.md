@@ -1,7 +1,7 @@
 # TradingView ETHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 29 September 2025 at 15:32:57 (GMT+7)
-## Price Now: $4,120.68
+## Last updated: 29 September 2025 at 16:26:54 (GMT+7)
+## Price Now: $4,134.53
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 ETHUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $65.07 | $67.92 | $69.06 | $60.48 | $29.12 | $16.03 | $63.15 | -$12.96 | $26.41 | $26.05 | -$23.89 | $4,107.91 |
+| $67.98 | $78.48 | $71.76 | $72.68 | $29.81 | $14.72 | $62.59 | -$10.35 | $27.20 | $26.34 | -$11.84 | $4,119.21 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $4,107.82 | $4,119.65 | $4,087.55 | $4,083.19 | $4,071.70 | $4,056.27 | $4,053.58 | $4,038.12 | $4,058.33 | $4,005.16 | $4,132.16 | $4,127.62 |
+| $4,113.38 | $4,119.08 | $4,092.43 | $4,089.39 | $4,076.04 | $4,060.76 | $4,056.93 | $4,040.70 | $4,059.93 | $4,006.28 | $4,132.23 | $4,125.89 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
