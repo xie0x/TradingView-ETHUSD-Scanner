@@ -1,7 +1,7 @@
 # TradingView ETHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 18 October 2025 at 20:25:02 (GMT+7)
-## Price Now: $3,876.58
+## Last updated: 18 October 2025 at 21:18:45 (GMT+7)
+## Price Now: $3,861.63
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 ETHUSD recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $52.88 | $56.20 | $56.01 | $50.37 | $17.61 | $17.00 | $42.99 | $4.51 | $8.25 | $4.02 | -$48.54 | $3,882.17 |
+| $49.53 | $41.60 | $50.50 | -$11.04 | $16.58 | $18.65 | $41.20 | $15.78 | $6.20 | $4.33 | -$77.04 | $3,871.47 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ ETHUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $3,874.98 | $3,876.41 | $3,865.16 | $3,864.28 | $3,865.48 | $3,831.60 | $3,883.07 | $3,864.42 | $3,936.39 | $3,957.56 | $4,024.00 | $3,987.66 |
+| $3,871.16 | $3,877.05 | $3,864.02 | $3,865.08 | $3,864.67 | $3,836.36 | $3,881.88 | $3,860.32 | $3,934.73 | $3,956.63 | $4,022.29 | $3,985.27 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
